@@ -1,0 +1,23 @@
+.custom-width-sm{
+    width: 60px;
+}
+.custom-width-lg{
+    width: 180px;
+}
+.custom-width-md{
+    width: 140px;
+}
+.mr-20{
+    margin-right: 20px;
+}
+.ml-10{
+    margin-left: 10px;
+}
+
+.btn-dropdown{
+    width: 30px;  /* Chiều rộng */
+    height: 30px; /* Chiều cao để tạo hình vuông */
+    background-color: #6c757d; /* Màu nền xám */
+    color: white; /* Màu chữ */
+    margin-bottom: 5px;
+}
